@@ -8,7 +8,6 @@ This is a simple web application that allows you to drop pins on a map and add r
 *   Add remarks to the pins.
 *   Remarks are displayed as tooltips when hovering over the pins.
 *   Press the spacebar to temporarily activate the "hand tool" for panning the map.
-*   Dark theme for better visual appeal.
 
 ## How to Use
 
